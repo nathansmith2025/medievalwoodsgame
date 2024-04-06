@@ -1,0 +1,4 @@
+Notes:
+
+I am having issues running this on the console for some unknown reason. 
+However, I recommend using Visual Studio Code to make this work properly.
